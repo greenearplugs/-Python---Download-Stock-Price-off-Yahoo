@@ -27,6 +27,7 @@ for row in csv_symbol:
 del stocksymbols[0]
 k = 0
 
+
 def negConverter(number):
     number = number[:-1]
     number = number[1:]
